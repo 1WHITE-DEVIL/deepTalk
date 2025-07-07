@@ -1,0 +1,22 @@
+deeptalk-backendfinal.zip
+deeptalk-frontend-tailwind.zip
+
+deeptalk-frontend/node_modules/
+deeptalk-frontend-tailwind/node_modules/
+deeptalk-model-server/venv/Lib/
+# Ignore ZIP files
+*.zip
+
+# Ignore Node.js dependencies
+deeptalk-frontend-tailwind/node_modules/
+deeptalk-frontend/node_modules/
+
+# Ignore Python virtual environments
+deeptalk-model-server/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
