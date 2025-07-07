@@ -24,7 +24,7 @@
 *.zip
 
 # Ignore Node.js dependencies
-deeptalk-frontend/node_modules/
+deeptalk-backendfinal/node_modules/
 deeptalk-frontend-tailwind/node_modules/
 deeptalk-model-server/venv/Lib/
 
